@@ -1,2 +1,2 @@
-# hello-world
-First Repositary
+# hello-world program
+print('Hello World')
